@@ -1,0 +1,3 @@
+http://help.eclipse.org/juno/index.jsp?topic=%2Forg.eclipse.jpt.doc.user%2Ftask_create_new_project.htm&anchor=CIHHEJCJ
+
+http://help.eclipse.org/juno/index.jsp?topic=%2Forg.eclipse.jpt.doc.user%2Ftasks021.htm
